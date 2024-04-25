@@ -1,0 +1,23 @@
+Zoom on Hover: 
+https://www.w3schools.com/howto/howto_css_zoom_hover.asp 
+
+Pill Navigation:
+https://www.w3schools.com/howto/howto_css_pill_nav.asp 
+
+Text Buttons: 
+https://www.w3schools.com/howto/howto_css_text_buttons.asp 
+
+Full Width (Block) Buttons
+https://www.w3schools.com/howto/howto_css_block_buttons.asp 
+
+Font: 
+https://www.w3schools.com/css/css_font.asp
+
+Color:
+https://htmlcolorcodes.com/
+
+Outline buttons: 
+https://www.w3schools.com/howto/howto_css_outline_buttons.asp
+
+Positioning:
+https://www.w3schools.com/css/css_positioning.asp
